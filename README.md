@@ -54,3 +54,4 @@ Die Bilder sollten immer mit Farbe abgespeichert werden.
 Die Seite verwendet die MIT Lizenz.
 Der ursprüngliche Theme (Agency) verwendet die Apache 2.0 Lizenz (Ersteller: Start Bootstrap).
 Die eingesetzten Komponenten (z.B. Bootstrap, jQuery) werden im Sinne der jeweiligen Lizenz verwendet.
+
